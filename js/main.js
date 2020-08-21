@@ -18,7 +18,7 @@
 	
 	if(input[0].value =="aerialrobotics" && input[1].value == "deathisgoodforyou"){
 		 
-		window.open("https://varunk122.github.io/ariitk_temp_pkg/docs/index.html")
+		window.open("https://varunk122.github.io/")
 	} 	
 	else {
 		alert("wrong id password")
